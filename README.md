@@ -1,6 +1,6 @@
 Stock Data Analysis with Alpha Vantage
 
-This is a personal project that explores and analyzes stock data obtained from Alpha Vantage
+This is a personal project that explores and analyzes stock data obtained from Alpha Vantage (https://www.alphavantage.co/documentation/)
 . The goal of this project is to practice data acquisition, feature engineering, visualization, and basic predictive modeling in Python.
 
 Features
